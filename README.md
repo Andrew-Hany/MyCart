@@ -1,5 +1,5 @@
-#
+#Preview 
 
-<p al>
-<img src="image.png"/>
+<p align="center">
+<img src="image.png width="5000" height="5000"/>
 </p>
