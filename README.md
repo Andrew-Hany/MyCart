@@ -1,5 +1,5 @@
 #Preview 
 
 <p align="center">
-<img src="image.png width="5000" height="5000"/>
+<img src="image.png" width="100000" />
 </p>
