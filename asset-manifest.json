@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Andrew-Hany/MyCart.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Andrew-Hany/MyCart.git/static/js/main.80178d1a.chunk.js",
-    "main.js.map": "/Andrew-Hany/MyCart.git/static/js/main.80178d1a.chunk.js.map",
-    "runtime-main.js": "/Andrew-Hany/MyCart.git/static/js/runtime-main.079900e1.js",
-    "runtime-main.js.map": "/Andrew-Hany/MyCart.git/static/js/runtime-main.079900e1.js.map",
-    "static/css/2.f65acde2.chunk.css": "/Andrew-Hany/MyCart.git/static/css/2.f65acde2.chunk.css",
-    "static/js/2.f66693aa.chunk.js": "/Andrew-Hany/MyCart.git/static/js/2.f66693aa.chunk.js",
-    "static/js/2.f66693aa.chunk.js.map": "/Andrew-Hany/MyCart.git/static/js/2.f66693aa.chunk.js.map",
-    "index.html": "/Andrew-Hany/MyCart.git/index.html",
-    "precache-manifest.2993959b74091d946cb469d2d43b1c2c.js": "/Andrew-Hany/MyCart.git/precache-manifest.2993959b74091d946cb469d2d43b1c2c.js",
-    "service-worker.js": "/Andrew-Hany/MyCart.git/service-worker.js",
-    "static/css/2.f65acde2.chunk.css.map": "/Andrew-Hany/MyCart.git/static/css/2.f65acde2.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/Andrew-Hany/MyCart.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f66693aa.chunk.js.LICENSE.txt": "/Andrew-Hany/MyCart.git/static/js/2.f66693aa.chunk.js.LICENSE.txt"
+    "main.css": "/MyCart/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MyCart/static/js/main.ea6a633a.chunk.js",
+    "main.js.map": "/MyCart/static/js/main.ea6a633a.chunk.js.map",
+    "runtime-main.js": "/MyCart/static/js/runtime-main.1072d842.js",
+    "runtime-main.js.map": "/MyCart/static/js/runtime-main.1072d842.js.map",
+    "static/css/2.f65acde2.chunk.css": "/MyCart/static/css/2.f65acde2.chunk.css",
+    "static/js/2.f66693aa.chunk.js": "/MyCart/static/js/2.f66693aa.chunk.js",
+    "static/js/2.f66693aa.chunk.js.map": "/MyCart/static/js/2.f66693aa.chunk.js.map",
+    "index.html": "/MyCart/index.html",
+    "precache-manifest.78dffb1a132d079ec6db3862f4097fed.js": "/MyCart/precache-manifest.78dffb1a132d079ec6db3862f4097fed.js",
+    "service-worker.js": "/MyCart/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/MyCart/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/MyCart/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f66693aa.chunk.js.LICENSE.txt": "/MyCart/static/js/2.f66693aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.079900e1.js",
+    "static/js/runtime-main.1072d842.js",
     "static/css/2.f65acde2.chunk.css",
     "static/js/2.f66693aa.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.80178d1a.chunk.js"
+    "static/js/main.ea6a633a.chunk.js"
   ]
 }
